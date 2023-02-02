@@ -1,3 +1,4 @@
 hoge
 abc
 commit
+hoge
